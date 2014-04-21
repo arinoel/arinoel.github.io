@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/* Layout Small Screens */
+
+header {
+	height: 100px;
+	background: url(../images/banner_small.jpg) no-repeat left 0px;
+}
+
+header a.logo {
+	width: 115px;
+	height: 70px;
+	left: 8px;
+	top: 12px;
+	background-image: url(../images/logo_small.png);
+}
+
+article { text-align: center; }
+
+.portfolio_container .project { width: 100%; display: block; }
+
+.portfolio_container .project .image {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	}
+
+	
+.portfolio_container .project .description {
+	padding: 10px 10px 25px 10px;
+	text-align: center;
+	line-height: .85em;
+	}
+
+nav { top: 50px; }
+nav a { margin: 5px 0 5px 15px; }
+
+

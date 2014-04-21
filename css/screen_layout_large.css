@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+/* Layout (global rules for all sizes) */
+
+body { margin: 0; padding: 0; }
+
+header a.logo {
+	display: block;
+	position: absolute;
+	background-position: 0px 0px;
+	background-repeat: no-repeat;	
+}
+
+nav {
+	width: 100%;
+	display: block;
+	position: absolute;
+	background-color: #336666;
+}
+
+/* Layout Large Screens (default for older browsers) */
+
+header {
+	height: 200px;
+	background: url(../images/banner_large.jpg) no-repeat left 0px;
+	width: 100%;
+}
+
+header a.logo {
+	width: 150px;
+	height: 85px;
+	left: 20px;
+	top: 63px;
+	background-image: url(../images/logo_large.png);
+}
+
+article { text-align: center; }
+
+.portfolio_container { 
+
+	background-color: #fff; 
+	display: block; 
+	margin: 0 auto; 
+}
+
+.portfolio_container .project {
+	width: 33%;
+	display: inline-block;
+	}
+
+
+	
+.portfolio_container .project .description {
+	padding: 10px;
+	text-align: center;
+	}
+
+nav { top: 150px; }
+nav a { margin: 5px 0 5px 15px; }
+
+

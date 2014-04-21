@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+/* Layout Medium Screens */
+
+header {
+	height: 150px;
+	background: url(../images/banner_medium.jpg) no-repeat left 0px;
+}
+
+header a.logo {
+	width: 115px;
+	height: 70px;
+	left: 27px;
+	top: 30px;
+	background-image: url(../images/logo_medium.png);
+}
+
+article { text-align: center; }
+
+.portfolio_container { 
+	background-color: #fff; 
+	margin: 0 auto; 
+}
+
+.portfolio_container .project {
+	width: 40%;
+	display: inline-block;
+	}
+
+
+	
+.portfolio_container .project .description {
+	padding: 10px;
+	text-align: center;
+	}
+
+article { 
+	text-align: center;
+	padding: 105px, 0, 20px, 0;	
+}
+
+nav { top: 100px; }
+nav a { margin: 5px 0 5px 15px; }
+
+
