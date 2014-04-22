@@ -61,8 +61,10 @@ footer {
 .description {font-family: 'Merriweather', serif; }
 .thumbnail { text-align: center; }
 
-.image .caption { font-family: 'Merriweather', serif; font-size: 0.8em; margin-top: -3px }
+.image .caption { font-family: 'Merriweather', serif; font-size: 0.8em; margin-top: -3px; }
+.centerimage .caption { font-family: 'Merriweather', serif; font-size: 0.8em; margin-top: -3px; text-align: center; }
 .image { float: left; padding: 20px 10px 0 5px;}
+.centerimage { align-content: center; }
 
 .clear-fix { clear:both; height: 1px;}
 
