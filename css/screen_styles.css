@@ -35,6 +35,12 @@ h1 {
 	margin: 0 0 2em 0; 
 	padding: 0; 
 }
+
+.head {
+	margin: 0 40px 20px 40px;
+	line-height: 1.3em;
+	}
+
 h2 {
 	font-family: 'Raleway', sans-serif;
 	font-size: 1.25em; 
@@ -50,7 +56,8 @@ p { font-family: 'Merriweather', serif;
 a { color: #94b8ac; }
 a:hover { color: #f6ac3f; }
 nav a { font-family: 'Raleway', sans-serif; }
-footer { 
+footer {
+	font-family: 'Merriweather', sans-serif; 
 	font-size: .85em; 
 	color: #fff; 
 	background-color: #535353; 
@@ -58,7 +65,7 @@ footer {
 }
 
 .project h3 { font-weight: normal; }
-.description {font-family: 'Merriweather', serif; }
+.description {font-family: 'Merriweather', serif; line-height: 1.5em; }
 .thumbnail { text-align: center; }
 
 .image .caption { font-family: 'Merriweather', serif; font-size: 0.8em; margin-top: -3px; }

@@ -26,10 +26,10 @@ article { text-align: center; }
 	}
 
 	
-.portfolio_container .project .description {
+.description {
 	padding: 10px 10px 25px 10px;
 	text-align: center;
-	line-height: .85em;
+	line-height: 1.5em;
 	}
 
 nav { top: 50px; }
