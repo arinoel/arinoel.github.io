@@ -27,7 +27,9 @@ article { text-align: center; }
 	display: inline-block;
 	}
 
-
+.centerimage {
+	image-width: 100%;
+}	
 	
 .portfolio_container .project .description {
 	padding: 10px;

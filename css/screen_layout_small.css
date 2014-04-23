@@ -26,8 +26,7 @@ article { text-align: center; }
 	}
 
 .centerimage {
-	image-width: 320px;
-	image-height: 169px;
+	image-width: 100%;
 }	
 	
 .description {
