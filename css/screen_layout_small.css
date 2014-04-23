@@ -25,12 +25,16 @@ article { text-align: center; }
 	text-align: center;
 	}
 
+.centerimage {
+	image-width: 100%
+	
+}	
 	
 .description {
 	padding: 10px 10px 25px 10px;
 	text-align: center;
 	line-height: 1.5em;
-	}
+}
 
 nav { top: 50px; }
 nav a { margin: 5px 0 5px 15px; }
