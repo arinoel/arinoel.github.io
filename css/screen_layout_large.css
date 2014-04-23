@@ -46,14 +46,12 @@ article { text-align: center; }
 .portfolio_container .project {
 	width: 33%;
 	display: inline-block;
-	}
+}
 
-
-	
 .portfolio_container .project .description {
 	padding: 10px;
 	text-align: center;
-	}
+}
 
 nav { top: 150px; }
 nav a { margin: 5px 0 5px 15px; }

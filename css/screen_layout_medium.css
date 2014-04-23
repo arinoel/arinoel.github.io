@@ -28,7 +28,8 @@ article { text-align: center; }
 	}
 
 .centerimage {
-	image-width: 100%;
+	width: 100%;
+	height: auto;
 }	
 	
 .portfolio_container .project .description {
